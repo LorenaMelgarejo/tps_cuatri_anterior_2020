@@ -31,3 +31,20 @@ C:\Users\lola_\OneDrive\Escritorio\PrimerParcial2020\PrimerParcial2020\Melgarejo
 C:\Users\lola_\OneDrive\Escritorio\PrimerParcial2020\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\lola_\OneDrive\Escritorio\PrimerParcial2020\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\lola_\OneDrive\Escritorio\PrimerParcial2020\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmResponsable.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MelgarejoLorena.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Frmlogin.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmMenuInicio.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAltaAula.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmAltaAlumno.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FrmResponsable.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MelgarejoLorena.csproj.GenerateResource.cache
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MelgarejoLorena.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\MelgarejoLorena.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\LorenaMelgarejo_PParcial\PrimerParcial2020\MelgarejoLorena_2D\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
