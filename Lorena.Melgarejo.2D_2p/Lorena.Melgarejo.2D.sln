@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmExamen", "WindowsFormsApp1\frmExamen.csproj", "{9B92B51D-4029-4E54-B027-F9E82FDF8825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{F685E7E6-C8A9-4999-8119-05F2CD405AE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excepciones", "Excepciones\Excepciones.csproj", "{A67F282D-54E7-44B2-A343-12404FC7F6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B92B51D-4029-4E54-B027-F9E82FDF8825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B92B51D-4029-4E54-B027-F9E82FDF8825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B92B51D-4029-4E54-B027-F9E82FDF8825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B92B51D-4029-4E54-B027-F9E82FDF8825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F685E7E6-C8A9-4999-8119-05F2CD405AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F685E7E6-C8A9-4999-8119-05F2CD405AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F685E7E6-C8A9-4999-8119-05F2CD405AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F685E7E6-C8A9-4999-8119-05F2CD405AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67F282D-54E7-44B2-A343-12404FC7F6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67F282D-54E7-44B2-A343-12404FC7F6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67F282D-54E7-44B2-A343-12404FC7F6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67F282D-54E7-44B2-A343-12404FC7F6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92211D2C-09CC-46DA-8CB4-1FA577465E25}
+	EndGlobalSection
+EndGlobal

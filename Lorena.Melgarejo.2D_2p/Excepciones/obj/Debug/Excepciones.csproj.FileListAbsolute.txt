@@ -1,0 +1,6 @@
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Excepciones\obj\Debug\Excepciones.pdb
