@@ -12,3 +12,10 @@ C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Ent
 C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Entidades\obj\Debug\Entidades.dll
 C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\2ºParcial\Lorena.Melgarejo.2D\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\bin\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\obj\Debug\Entidades.dll
+C:\Users\lola_\OneDrive\Escritorio\subir al git\tp_laboratorio_2\Lorena.Melgarejo.2D_2p\Entidades\obj\Debug\Entidades.pdb

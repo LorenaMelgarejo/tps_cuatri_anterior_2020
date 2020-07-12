@@ -1,0 +1,16 @@
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Consola.exe
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Consola.pdb
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Archivos.dll
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Clases_Abstractas.dll
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Clases_Instanciables.dll
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Excepciones.dll
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Clases_Abstractas.pdb
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Clases_Instanciables.pdb
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\bin\Debug\Excepciones.pdb
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\obj\Debug\Consola.exe
+C:\Users\lola_\OneDrive\Escritorio\cosasDel2P\Recu_TP3\LorenaMelgarejo.2D.RTP3\Consola\obj\Debug\Consola.pdb

@@ -1,0 +1,69 @@
+
+JORNADA:
+CLASE DE: Laboratorio. POR NOMBRE COMPLETO:   LopezJuan
+NACIONALIDAD: Argentino
+
+Legajo: 1
+
+CLASES DEL DIA: 
+Laboratorio
+Laboratorio
+
+  SuarezJoaquin
+NACIONALIDAD: Extranjero
+
+Legajo: 7
+
+TOMA CLASE DE Laboratorio
+
+Estado de cuenta: AlDia
+
+<------------------------------------------------->
+
+
+
+JORNADA:
+CLASE DE: Laboratorio. POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+Legajo Numero: 2
+
+CLASES DEL DIA: 
+SPD
+Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+Legajo Numero: 7
+
+TOMA CLASE DE Laboratorio
+
+Estado de cuenta: AlDia
+
+<------------------------------------------------->
+
+
+
+JORNADA:
+CLASE DE: Laboratorio. POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+Legajo Numero: 1
+
+CLASES DEL DIA: 
+SPD
+Laboratorio
+
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+Legajo Numero: 7
+
+TOMA CLASE DE Laboratorio
+
+Estado de cuenta: AlDia
+
+<------------------------------------------------->
+
+
